@@ -2,7 +2,7 @@
 
 This repository contains an archive of my résumés.
 
-[**View all résumés →**](https://anandchowdhary.github.io/resume/)
+[**View all résumés →**](https://anandchowdhary.github.io/resumes/)
 
 ## 📁 Archive
 
